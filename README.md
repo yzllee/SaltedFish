@@ -1,4 +1,4 @@
-# SoltFish v1.0 
+# SaltedFish v1.0 
 
 一款简洁的WordPress主题。
 
@@ -10,7 +10,7 @@
 
 ``` bash
 #克隆项目到本地
-git clone https://github.com/yzllee/SoltFish.git
+git clone https://github.com/yzllee/SaltedFish.git
 #将主题放入wordpress/wp-conten/themes
 ```
 
